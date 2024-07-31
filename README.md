@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">📚 Сертификаты https://github.com/mbgxq/certificate</p>
+<p align="left">● Сертификаты https://github.com/mbgxq/certificate</p>
+<p align="left">● Награды 
+<p align="left">● Проекты 
 
 ###
 
