@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Мои сертификаты https://github.com/mbgxq/certificate</p>
+<p align="left">📚 Сертификаты https://github.com/mbgxq/certificate</p>
 
 ###
 
