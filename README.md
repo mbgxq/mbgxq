@@ -43,8 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://cdn-icons-png.freepik.com/256/1440/1440070.png?ga=GA1.1.81533264.1722163312&semt=ais_hybrid" height="40" alt="WAN logo"  />
-  <img src="https://cdn-icons-png.freepik.com/256/10838/10838517.png?ga=GA1.1.81533264.1722163312&semt=ais_hybrid" height="40" alt="vscode logo"  />
-</div>
+  <img src="https://cdn-icons-png.freepik.com/256/10838/10838517.png?ga=GA1.1.81533264.1722163312&semt=ais_hybrid" height="40" alt="Firewall"  />
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" height="40" alt="wireshark"  />
+  </div>
 
 ###
 
