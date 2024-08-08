@@ -11,9 +11,9 @@
 ###
 
 <p align="left">● <a href="https://github.com/mbgxq/certificate">Сертификат</a></p>
-<p align="left">● Награды https://github.com/mbgxq/awards
+<p align="left">● <a href="https://github.com/mbgxq/awards">Награды</a></p>
 <p align="left">● Проекты 
-<p align="left">● Resume https://github.com/mbgxq/resume
+<p align="left">● <a href="https://github.com/mbgxq/resume">Резюме</a></p>
 
 ###
 
