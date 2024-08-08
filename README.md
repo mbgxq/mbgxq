@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">● Сертификаты https://github.com/mbgxq/certificate</p>
-<p align="left">● Награды 
+<p align="left">● Сертификаты [● Сертификаты](https://github.com/mbgxq/certificate)</p>
+<p align="left">● Награды https://github.com/mbgxq/awards
 <p align="left">● Проекты 
 <p align="left">● Resume https://github.com/mbgxq/resume
 
