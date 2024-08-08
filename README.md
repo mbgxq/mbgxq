@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">● <a href="https://github.com/mbgxq/certificate">Сертификат</a></p>
+<p align="left">● <a href="https://github.com/mbgxq/certificate">Сертификаты</a></p>
 <p align="left">● <a href="https://github.com/mbgxq/awards">Награды</a></p>
 <p align="left">● Проекты 
 <p align="left">● <a href="https://github.com/mbgxq/resume">Резюме</a></p>
